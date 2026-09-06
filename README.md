@@ -1,4 +1,4 @@
-# Rochelle Sidney Wagenaar
+# 👋 Rochelle Sidney Wagenaar
 Cloud & Systems Architecture | Full-Stack Development | Software Engineer | Aspiring AI Engineer
 
 Software Engineer with hands-on experience building web applications, APIs, SaaS solutions, and technology-driven products across full-stack development, cloud, and AI-focused environments. I enjoy turning complex problems into practical, scalable software and working across the full development lifecycle, from the system design and the backend development to the frontend applications, databases, APIs, testing and deployment.
@@ -38,7 +38,7 @@ AI Engineering - AI Training - Data Processing - SQL - Machine Learning Concepts
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## PROFESSIONAL EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
 ### Software Engineering - Cinbel Technologies
 Software engineering across SaaS, e-commerce, web applications, and technology products.
@@ -51,7 +51,7 @@ Software development across web applications, programming projects, AI-related w
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## FEATURED PROJECTS 
+## 🚀 FEATURED PROJECTS 
 
 ### EnviroPlus
 Environmental technology project focused on developing software solutions for environmental applications.
@@ -79,7 +79,7 @@ Chart.js - Railway - PostgreSQL - Next.js - Flask - React
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## EDUCATION
+## 🎓 EDUCATION
 
 ### Bsc Computer Science
 
@@ -99,13 +99,13 @@ Focus areas include software development, AI engineering, mathematics, physics, 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# CAREER INTERESTS
+# 🎯 CAREER INTERESTS
 
 Software Engineering - Full-Stack Development - Backend Engineering - Python Development - Cloud Engineering - Solutions Architecture - AI Engineering - SaaS Development
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# CONTACT
+# 📫 CONTACT
 
 Portfolio : Coming Soon
 Linkedln : Coming Soon
