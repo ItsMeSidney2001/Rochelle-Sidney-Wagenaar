@@ -3,7 +3,7 @@ Cloud & Systems Architecture | Full-Stack Development | Software Engineer | Aspi
 
 Software Engineer with hands-on experience building web applications, APIs, SaaS solutions, and technology-driven products across full-stack development, cloud, and AI-focused environments. I enjoy turning complex problems into practical, scalable software and working across the full development lifecycle, from the system design and the backend development to the frontend applications, databases, APIs, testing and deployment.
 ----------------------------------------------------------------------------------------------------------------------------------------
-## ABOUT ME:
+## 👩‍💻 ABOUT ME:
 
 -Software Engineer with experience in full-stack application development
 -Interested in scalable software and systems architecture
@@ -16,7 +16,7 @@ Software Engineer with hands-on experience building web applications, APIs, SaaS
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## TECHNICAL SKILLS
+## 🛠 TECHNICAL SKILLS
 
 **Programming Languages**
 Python - JavaScript - C# - SQL - Ruby
